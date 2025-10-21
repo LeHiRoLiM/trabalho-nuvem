@@ -1,4 +1,4 @@
-{
+/*{
   "name": "trabalho-nuvem",
   "version": "1.0.0",
   "description": "Atividade para aplicação Node.js rodar no railway",
@@ -19,5 +19,22 @@
   "homepage": "https://github.com/LeHiRoLiM/trabalho-nuvem#readme",
   "dependencies": {
     "express": "^5.1.0"
+  }
+}
+*/
+
+{
+  "name": "projetoNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.1"
   }
 }
