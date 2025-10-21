@@ -1,0 +1,23 @@
+{
+  "name": "trabalho-nuvem",
+  "version": "1.0.0",
+  "description": "Atividade para aplicação Node.js rodar no railway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeHiRoLiM/trabalho-nuvem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeHiRoLiM/trabalho-nuvem/issues"
+  },
+  "homepage": "https://github.com/LeHiRoLiM/trabalho-nuvem#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
